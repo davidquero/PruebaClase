@@ -14,7 +14,7 @@ namespace WindowsFormsApp3
     {
         public Form1()
         {
-            InitializeComponent(); // comento desde branch1
+            InitializeComponent(); // comento desde Rama1
         }
     }
 }
