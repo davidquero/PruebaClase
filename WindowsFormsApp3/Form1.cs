@@ -14,7 +14,7 @@ namespace WindowsFormsApp3
     {
         public Form1()
         {
-            InitializeComponent(); // comento desde Rama1 otra vez con push
+            InitializeComponent(); // comento desde Rama1 otra vez con push cambiada
         }
     }
 }
